@@ -1,0 +1,139 @@
+body
+{font-family: 'Montserrat', sans-serif;
+font-size: 20px;
+line-height: 1.5;
+text-align: left;
+margin:0;
+padding:0;
+background-color:rgb(235, 235, 235);
+color:rgb(10, 10, 10);}
+
+header
+{background-image: url(podklady/obrázky/header.jpg); 
+background-size: 800px;
+margin: 30px 0px;
+padding: 100px;
+background-repeat: no-repeat;
+background-position: left;
+background-color:rgb(235, 235, 235);
+text-align:center;
+font-size:25px;}
+
+.kontakt
+{background-color:rgb(235, 235, 235);}
+
+.vzdelani
+{background-color: rgb(255, 238, 218);}
+
+.umeniafilm
+{background-color:cornsilk;}
+
+.texty
+{background-color:rgb(239, 225, 202);}
+
+.cukrovinky
+{background-color: seashell;}
+
+.IT
+{background-color: azure;}
+
+h1
+{font-size: 40px;
+margin:50px;
+padding: 50px;
+}
+
+h2
+{font-size: 30px;
+text-align: center;}
+
+h3
+{font-size:25px;
+text-align: left;
+margin-left: 50px;
+font-style: italic;}
+
+.profilovka
+{width: 300px;
+border-radius: 50%;
+float: right;
+margin: 50px;}
+
+.film
+{width:300px;
+border-radius:50%;
+float:right;
+margin:50px;}
+
+.makronky
+{width:300px;
+border-radius:50%;
+float:right;
+margin:50px;}
+
+.study
+{width:300px;
+border-radius:50%;
+float:right;
+margin:50px;}
+
+.text
+{width:300px;
+border-radius:50%;
+float:right;
+margin:50px;}
+
+.itimage
+{width:300px;
+border-radius:50%;
+float:right;
+margin:50px;}
+
+
+td 
+{padding-bottom: 10px;
+padding-top:10px;
+text-align: left;
+padding-left:10px;}
+
+.škola{text-align:left;
+padding-left:30px;}
+
+
+table{margin-left:50px;
+border-spacing:0;}
+
+p {margin:50px;
+line-height: 2;}
+
+footer
+{background-color:rgb(10, 10, 10);
+color:whitesmoke;
+text-align:center;
+padding:10px;
+margin:0;}
+
+section
+{margin:0;
+overflow: auto;}
+
+.menu li
+{display:inline-block;}
+
+.menu 
+{margin:0;
+text-align:center;
+background-color:rgb(10, 10, 10);}
+
+.menu a 
+{color:rgb(235, 235, 235);
+text-decoration:none;
+padding:20px 40px;
+display:inline-block;}
+
+.menu a:hover 
+{background-color:grey;}
+
+a 
+{color:rgb(10, 10, 10)}
+
